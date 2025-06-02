@@ -1,6 +1,6 @@
-# Aruba AOS8 to AOS10 Migration Tool – Setup and Usage Guide
+# Aruba AOS8 to AOS10 AP Migration Tool – Setup Guide
 
-This guide explains how to set up and run the Aruba AOS8 to AOS10 Migration Tool on both **Ubuntu Linux** and **macOS** systems.
+This guide explains how to set up and run the Aruba AOS8 to AOS10 AP Migration Tool on both **Ubuntu Linux** and **macOS** systems.
 
 ---
 
